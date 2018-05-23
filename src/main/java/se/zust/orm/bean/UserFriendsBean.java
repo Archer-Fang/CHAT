@@ -15,7 +15,6 @@ public class UserFriendsBean {
 
     private Date joinTime;
 
-
     public Integer getId() {
         return id;
     }
